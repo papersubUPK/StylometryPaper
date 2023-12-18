@@ -5,16 +5,19 @@
 3. The Other Two files I.e., ReducedAccounts and ReducedSingleTweets are two files with reduced features set for additional experiments To Identify Accounts and Tweets Respectively.
 
 4. All the .ipynb files are the machine learning files for RQ1. RQ2.
+   
    4.1 Consistency_Analysis(RQ_1).ipynb is to access the RQ1.
+   
    4.2 The following files are used to access RQ1.1 & RQ2.
 
-   Decision_Tree(RQ_1_1&2).ipynb
-   LogisticRegression(RQ_1_1&2).ipynb
-   RandomForest(RQ1_1&2).ipynb
-   SVMLinear(RQ1_1&2).ipynb
+   Decision_Tree(RQ_1_1&2).ipynb, 
+   LogisticRegression(RQ_1_1&2).ipynb, 
+   RandomForest(RQ1_1&2).ipynb, 
+   SVMLinear(RQ1_1&2).ipynb, 
    SVM_RBF(RQ1_1&2).ipynb
 
    4.3 To perform feature selection we have a file i.e., Features_Selection_Based_On_MDA.ipynb
+   
    4.4 To perform Friedman test and Nemenyi post hoc analysis we have Friedman's_Test_&_Post_Hoc_Analysis.ipynb file.
    
 
