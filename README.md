@@ -18,7 +18,7 @@
 
    4.3 To perform feature selection based on MDA we have a file i.e., Features_Selection_Based_On_MDA.ipynb
    
-   4.4 To perform feature ablation we have a file i.e., AblationStudy.ipynb
+   4.4 To perform feature ablation we have a file i.e., AblationStudy.ipynb. This file analyzes the importance of each single feature for each model. 
    
    4.5 To perform Friedman test and Nemenyi post hoc analysis we have Friedman's_Test_&_Post_Hoc_Analysis.ipynb file.
    
