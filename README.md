@@ -22,7 +22,7 @@
    
    4.5 To perform Friedman test and Nemenyi post hoc analysis we have Friedman's_Test_&_Post_Hoc_Analysis.ipynb file.
    
-   4.6 Moreover, we provided an extra file OccurenceBasedonAblation.ipynb which  represents the top important features based on occurrence visally in various models. 
+   4.6 Moreover, we provided an extra file OccurenceBasedOnAblation.ipynb which visually represents the top important features based on occurrence in various models. 
    
 
 
