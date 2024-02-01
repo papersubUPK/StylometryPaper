@@ -18,7 +18,7 @@
 
    4.3 To perform feature selection based on MDA we have a file i.e., Features_Selection_Based_On_MDA.ipynb
    
-   4.4 To perform feature ablation we have a file i.e., AblationStudy.ipynb. This file analyzes the importance of each single feature for each model. In the paper, we show the top 10 features with scores for each model in the Table. The graphical representation of these features is provided in the extra file OccurenceBasedOnAblation.ipynb to visually show the overall contribution of these features to accounts and tweet identification.
+   4.4 To perform feature ablation we have a file i.e., AblationStudy.ipynb. This file identify the importance of each single feature in each model. In the paper, we show the top 10 features with scores for each model in the Table. The graphical representation of these features is provided in the extra file OccurenceBasedOnAblation.ipynb to visually show the overall contribution of these features to accounts and tweet identification.
 
    4.5 To perform Friedman test and Nemenyi post hoc analysis we have Friedman's_Test_&_Post_Hoc_Analysis.ipynb file.
    
