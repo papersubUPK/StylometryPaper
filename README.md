@@ -1,8 +1,8 @@
-1. The Accounts.csv file represents the experimental file containing the human and chatGPT mean and standard deviation features for Accounts Identification (Setup - 1). Mean and Standard Deviation values are caluclated from Human Datasets and ChatGPT Datasets present in this repository. Human Datasets is the original file containing Tweets, with Tweets ID, Accounts, and Features Extratacted and ChatGPT Datasets is the Original file with Tweets ID, Tweets, Accounts, and Features Extratacted.
+1. The Accounts.csv file represents the experimental file containing the human and chatGPT mean and standard deviation features for Accounts Identification (Setup - 1). Mean and Standard Deviation values are calculated from Human Datasets and ChatGPT Datasets present in this repository. Human Datasets is the original file containing Tweets, with Tweets ID, Accounts, and Features Extratacted and ChatGPT Datasets is the Original file with Tweets ID, Tweets, Accounts, and Features Extratacted.
 
 2. The SingleTweets.csv file represents the experimental file containing the human and chatGPT features extracted for Tweets Identification  (Setup - 2). The tweets are taken from the orignal file i.e., Human Datasets and ChatGPT Datasets.
 
-3. The Other Two files I.e., ReducedAccounts and ReducedSingleTweets are two files with reduced features set for additional experiments To Identify Accounts and Tweets Respectively.
+3. The Other Two files I.e., ReducedAccounts and ReducedTweets are files with reduced features set for additional experiments To Identify Accounts and Tweets Respectively.
 
 4. All the .ipynb files are the machine learning files for RQ1. RQ2.
    
