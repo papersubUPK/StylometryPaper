@@ -2,7 +2,7 @@
 
 2. The SingleTweets.csv file represents the experimental file containing the features extracted for Tweets Identification  (Setup - 2). 
 
-3. The Other Two files I.e., ReducedAccounts and ReducedTweets are the files with reduced features set for additional experiments To Identify Accounts and Tweets Respectively.
+3. The Other Two files I.e., ReducedAccounts.csv and ReducedTweets.csv are the files with reduced features set for additional experiments To Identify Accounts and Tweets Respectively.
 
 4. All the .ipynb files are the machine learning files for RQ1. and RQ2.
    
