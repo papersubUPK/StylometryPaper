@@ -1,4 +1,4 @@
-1. The Accounts.csv file represents the experimental file containing the mean and standard deviation features for Accounts Identification (Setup - 1). Mean and Standard Deviation values are calculated based on the tweets contained in the All_Tweets.csv file in this repository. Moreover, the ChatGPT Datasets.csv and Human Datasets.csv files  containing Tweets, with respective Tweets ID, Accounts ID, and Features Extracted.
+1. The Accounts.csv file represents the experimental file for Accounts Identification (Setup - 1). Mean and Standard Deviation values are calculated based on ChatGPT Datasets.csv and Human Datasets.csv files  containing Tweets, with respective Tweets ID, Accounts ID, and Features Extracted. Moreover, all the tweets are contained in one file i.e. All_Tweets.csv for experimentation.
 
 2. The SingleTweets.csv file represents the experimental file containing the features extracted for Tweets Identification  (Setup - 2). 
 
