@@ -1,4 +1,4 @@
-1. The Accounts.csv file represents the experimental file containing the mean and standard deviation features for Accounts Identification (Setup - 1). Mean and Standard Deviation values are calculated based on the tweets contained in the All Tweets.csv file in this repository. All Tweets.csv file containing Tweets, with Tweets ID, Accounts, and Features Extracted.
+1. The Accounts.csv file represents the experimental file containing the mean and standard deviation features for Accounts Identification (Setup - 1). Mean and Standard Deviation values are calculated based on the tweets contained in the All_Tweets.csv file in this repository. Moreover, the ChatGPT Datasets.csv and Human Datasets.csv files  containing Tweets, with respective Tweets ID, Accounts ID, and Features Extracted.
 
 2. The SingleTweets.csv file represents the experimental file containing the features extracted for Tweets Identification  (Setup - 2). 
 
@@ -18,7 +18,7 @@
 
    4.3 To perform feature selection based on MDA we have a file i.e., Features_Selection_Based_On_MDA.ipynb
    
-   4.4 To perform feature ablation we have a file i.e., AblationStudy.ipynb. This file identify the importance of each single feature in each model. In the paper, we show the top 10 features with scores for each model in the Table. The graphical representation of these features is provided in the extra file OccurenceBasedOnAblation.ipynb to visually show the overall contribution of these features to accounts and tweet identification.
+   4.4 To perform feature ablation we have a file i.e., AblationStudy.ipynb. This file identifies the importance of each single feature in each model. In the paper, we show the top 10 features with scores for each model in the Table. The graphical representation of these features is provided in the extra file OccurenceBasedOnAblation.ipynb to visually show the overall contribution of these features to accounts and tweet identification.
 
    4.5 To perform Friedman test and Nemenyi post hoc analysis we have Friedman's_Test_&_Post_Hoc_Analysis.ipynb file.
    
