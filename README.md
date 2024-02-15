@@ -1,9 +1,10 @@
-1. The StylometricFeatures.csv file represents the experimental file for With Account, Tweets, Class, and 22 features Exactracted.
+1. The StylometricFeatures.csv file represents the experimental file With Account, Tweets, Class, and 22 features Exactracted.
+   
    1.1. The Accounts.csv file represents the experimental file for Accounts Identification. Mean and Standard Deviation values are calculated based on StylometricFeatures.csv.
 
    1.2 Hence, we contained all the tweets in one file i.e. Datasets (where chatGPT tweets are represented by 1 and human by 0). The main source of human datasets is http://mib.projects.iit.cnr.it/dataset.html which is considered the best source for genuine and verified human-operated accounts.
 
-2. All the .ipynb files are the machine learning files for RQ1. and RQ2.
+3. All the .ipynb files are the machine learning files for RQ1. and RQ2.
    
    2.1 Consistency_Analysis(RQ_1).ipynb is to access the RQ1.
    
