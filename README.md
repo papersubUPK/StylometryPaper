@@ -2,7 +2,13 @@
    
    1.1. The Accounts.csv file represents the experimental file for Accounts Identification. Mean and Standard Deviation values are calculated based on StylometricFeatures.csv.
 
-   1.2 Hence, we contained all the tweets in one file i.e. Datasets (where chatGPT tweets are represented by 1 and human by 0). The main source of human datasets is http://mib.projects.iit.cnr.it/dataset.html which is considered the best source for genuine and verified human-operated accounts.
+   1.2. The ReducedAccounts.csv file represents the experimental file (25 Features) for ReducedAccounts. The features are selected based on MDA.
+
+   1.3. The Tweets.csv file represents the selected tweets (20,000 tweets) file for Tweets identification. The features are selected based on MDA.
+
+   1.4. The ReducedTweets.csv file represents the  reduced tweets features  (15 Features) selected based on MDA.
+
+   1.5 Hence, we contained all the tweets in one file i.e. Datasets (where chatGPT tweets are represented by 1 and human by 0). The main source of human datasets is http://mib.projects.iit.cnr.it/dataset.html which is considered the best source for genuine and verified human-operated accounts.
 
 3. All the .ipynb files are the machine learning files for RQ1. and RQ2.
    
